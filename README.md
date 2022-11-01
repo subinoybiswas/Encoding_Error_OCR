@@ -14,6 +14,7 @@ We need to set up a few things before we can run this project. We need to instal
 'pip install sklearn'
 'pip install keras'
 
+### Team: Encoding Error
 ### Team Members
 
 #### Rittika Sarkar
